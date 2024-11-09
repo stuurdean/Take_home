@@ -1,0 +1,7 @@
+INSERT INTO accounts (balance, start_date, update_date, status, type)
+VALUES
+    (1000.00, '2023-01-15 10:00:00', '2023-01-15 10:00:00', 'ACTIVE', 'SAVINGS'),
+    (500.75, '2022-05-20 09:30:00', '2022-06-10 14:00:00', 'ACTIVE', 'CHECKING'),
+    (2000.50, '2021-12-05 08:00:00', '2022-11-05 15:45:00', 'INACTIVE', 'SAVINGS'),
+    (750.00, '2023-07-25 12:00:00', '2023-07-25 12:00:00', 'ACTIVE', 'CHECKING');
+
